@@ -139,8 +139,8 @@ EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = 'TRUE'
 EMAIL_PORT = 587
-EMAIL_HOST_USER = 'badumkgz@gmail.com'
-EMAIL_HOST_PASSWORD = 'kim199426011989'
+EMAIL_HOST_USER = 'umeibegimai@gmail.com'
+EMAIL_HOST_PASSWORD = 'Renda2019'
 
 REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
